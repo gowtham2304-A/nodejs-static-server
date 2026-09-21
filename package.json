@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-static-server",
+  "version": "1.0.0",
+  "description": "learning purpose ",
+  "keywords": [
+    "NodeJs",
+    "learn",
+    "with",
+    "chandiagarh",
+    "univeresity"
+  ],
+  "license": "ISC",
+  "author": "gowtham",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  }
+}
